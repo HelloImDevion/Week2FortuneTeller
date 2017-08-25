@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2FortuneTeller\Week2FortuneTeller\bin\Debug\Week2FortuneTeller.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2FortuneTeller\Week2FortuneTeller\bin\Debug\Week2FortuneTeller.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2FortuneTeller\Week2FortuneTeller\bin\Debug\Week2FortuneTeller.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2FortuneTeller\Week2FortuneTeller\obj\Debug\Week2FortuneTeller.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2FortuneTeller\Week2FortuneTeller\obj\Debug\Week2FortuneTeller.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2FortuneTeller\Week2FortuneTeller\obj\Debug\Week2FortuneTeller.pdb
